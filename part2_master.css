@@ -1,0 +1,25 @@
+/*
+selected tag{
+  property:value;
+} */
+
+body{
+  background-color: gray;
+background: url(https://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);
+background-repeat:no-repeat;
+}
+p{
+  color:yellow;
+}
+
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 10px;
+border-style:double;
+}
+
+span{
+  background: red;
+  color:black;
+}
